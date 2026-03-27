@@ -1,0 +1,7 @@
+{
+  "name": "django-demo",
+  "dependencies": {
+    "lodash": "4.17.21",
+    "express": "4.18.2"
+  }
+}
