@@ -1,0 +1,10 @@
+"skipped_files": [
+  {
+    "file_path": "tests/test_views.py",
+    "reason": ".semgrepignore"
+  },
+  {
+    "file_path": "package-lock.json",
+    "reason": ".semgrepignore"
+  }
+]
